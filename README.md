@@ -1,2 +1,3 @@
 # Primeiro Projeto
- Primeiro repositório do curso Git e Github
+ Meu primeiro repositório do curso Git e Github
+ 
